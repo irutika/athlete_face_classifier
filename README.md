@@ -8,7 +8,7 @@
 ![image](https://github.com/irutika/athlete_face_classifier/assets/106487590/f72f75cd-a562-485f-9857-65d6e1b1d49f)
 
 
-Technologies used in this project, </br>
+*Technologies used in this project,* </br>
 Python 3.8 </br>
 Numpy and OpenCV for data cleaning </br>
 Matplotlib & Seaborn for data visualization </br>
